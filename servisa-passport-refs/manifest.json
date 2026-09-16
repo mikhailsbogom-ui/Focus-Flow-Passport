@@ -1,6 +1,6 @@
 {
-  "product": "SERVISA Professional Digital Passport",
-  "version": "1.0",
+  "product": "SERVISA Professional Digital Passport + Supplier Company Profile",
+  "version": "1.1",
   "accent": "#FF6A2A",
   "language": "ru",
   "folder": "servisa-passport-refs",
@@ -13,5 +13,22 @@
     {"id": "mobile-availability", "path": "generated/06-mobile-availability-calendar.jpg"},
     {"id": "desktop-explainable-search", "path": "generated/07-desktop-explainable-search.jpg"},
     {"id": "desktop-team-builder", "path": "generated/08-desktop-team-builder.jpg"}
+  ],
+  "sourceSpec": [
+    {"id": "supplier-public-profile", "path": "source-spec/supplier-public-profile-03.jpg"},
+    {"id": "supplier-ops-workspace", "path": "source-spec/supplier-ops-workspace-05.jpg"},
+    {"id": "passport-preview-01", "path": "source-spec/passport-preview-01.jpg"},
+    {"id": "passport-preview-02", "path": "source-spec/passport-preview-02.jpg"},
+    {"id": "passport-preview-03", "path": "source-spec/passport-preview-03.jpg"}
+  ],
+  "suppliers": [
+    {"id": "lighting-warehouse", "category": "light", "path": "suppliers/01-lighting-warehouse.jpg"},
+    {"id": "sound-line-array", "category": "sound", "path": "suppliers/02-sound-line-array.jpg"},
+    {"id": "led-wall-install", "category": "led", "path": "suppliers/03-led-wall-install.jpg"},
+    {"id": "generators-power", "category": "generators", "path": "suppliers/04-generators-power.jpg"},
+    {"id": "catering-event", "category": "catering", "path": "suppliers/05-catering-event.jpg"},
+    {"id": "logistics-loading", "category": "logistics", "path": "suppliers/06-logistics-loading.jpg"},
+    {"id": "decor-furniture", "category": "decor", "path": "suppliers/07-decor-furniture.jpg"},
+    {"id": "stage-rigging-crew", "category": "stage", "path": "suppliers/08-stage-rigging-crew.jpg"}
   ]
 }
