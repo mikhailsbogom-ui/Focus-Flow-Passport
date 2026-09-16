@@ -1,0 +1,17 @@
+{
+  "product": "SERVISA Professional Digital Passport",
+  "version": "1.0",
+  "accent": "#FF6A2A",
+  "language": "ru",
+  "folder": "servisa-passport-refs",
+  "screens": [
+    {"id": "desktop-public-profile", "path": "generated/01-desktop-public-profile.jpg"},
+    {"id": "mobile-public-profile", "path": "generated/02-mobile-public-profile.jpg"},
+    {"id": "mobile-credentials", "path": "generated/03-mobile-credentials.jpg"},
+    {"id": "desktop-passport-control-center", "path": "generated/04-desktop-passport-control-center.jpg"},
+    {"id": "desktop-achievements", "path": "generated/05-desktop-achievements.jpg"},
+    {"id": "mobile-availability", "path": "generated/06-mobile-availability-calendar.jpg"},
+    {"id": "desktop-explainable-search", "path": "generated/07-desktop-explainable-search.jpg"},
+    {"id": "desktop-team-builder", "path": "generated/08-desktop-team-builder.jpg"}
+  ]
+}

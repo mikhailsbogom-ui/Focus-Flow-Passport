@@ -1,2 +1,5 @@
 # Focus-Flow-Passport
-SERVISA Professional Digital Passport visual references for downstream AI / neural network workflows
+
+Visual reference pack for SERVISA Professional Digital Passport.
+
+Start here: [servisa-passport-refs/README.md](servisa-passport-refs/README.md)
