@@ -1,14 +1,13 @@
-# How to add the generated JPEGs
+# How to add the JPEGs
 
-GitHub API from this session can write text files, but not reliably push ~100KB binary JPEGs in one commit.
+GitHub API from this session writes text reliably. Binary JPEGs (~60–200 KB) need one manual drop.
 
-Do this once:
-
-1. Download `servisa-passport-refs.zip` from the chat.
-2. Unzip.
-3. Drag the folders `generated/` and `source-spec/` into
-   `https://github.com/mikhailsbogom-ui/Focus-Flow-Passport/tree/main/servisa-passport-refs`
-4. Commit.
+1. Download `servisa-supplier-photos.zip` from the chat.
+2. Unzip. You get:
+   - `servisa-passport-refs/suppliers/` — 8 photos of service suppliers
+   - `servisa-passport-refs/source-spec/` — screenshots from the product specs
+3. Open https://github.com/mikhailsbogom-ui/Focus-Flow-Passport/tree/main/servisa-passport-refs
+4. Drag the folders `suppliers` and `source-spec` onto that page and commit.
 
 After that another model can clone:
 
